@@ -1,0 +1,5 @@
+Rule Edit Page
+This page is meant to be show when a rule is selected from "My Rules" screen. The page contains the standard title bar with menu button. The action bar on the bottom contains three buttons. The first button toggles the rule on or off. The second button allows the user to share or export the rule. The third button will delete the rule. The main part of this page contains the title of the rule along with a summary of the causes that trigger it and the actions that happen as a result. Each item under "cause" and "effect" is represented by a button with the action. Each item may be deleted with the corresponding button. The last item in each list will add a new action to either the cause or effect category. 
+
+Help Page
+This page is meant to be a list overview of all the items in the help menu. The page contains the standard title bar with menu button. The action bar on the bottom contains no buttons. Some sample items in the list include an about page, an interactive tutorial, and a table of contents for help topics. 

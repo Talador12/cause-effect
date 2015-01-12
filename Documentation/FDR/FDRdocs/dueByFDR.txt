@@ -1,0 +1,43 @@
+Final list of things to do.
+Mark with *** as it is finished. example: ***1.
+
+Code
+	***1. Bitbucket
+	***2. ATP Candie
+	***3. ATP Stephen
+	***4. Debug and Test! (EVERYONE)
+	***5. Javadocs (KEITH)
+	***6. Formatting (KEITH)
+	***7. Export Javadoc (KEITH)
+
+Slides
+	***8. Check/Update old slides (TOMIN)
+	***9. Add API Slides (KEITH)
+	***10. Lessons Learned (EVERYONE give two bullets)
+	***11. Future Work Slides (TOMIN)
+
+Documentation ***(Added all of the stubs for new sections)
+	***12. Class Diagrams (ObjectAid UML plug-in for eclipse) (MATTY B)
+	***13. Update Iteration User Stories (WILL and KEITH)
+	***14. Iteration Burndown Charts (1 per iteration, 1 giant one) (WILL)
+	***15. Gantt Charts (1 per iteration, 1 giant one) (KEITH)
+	***16. Change Request Forms (KEITH)
+	***17. Update Design Sections (KEITH, TOMIN, WILL, MATTY B)
+	***18. Update ATP (MATTY B) -KEITH did this
+	***19. Update Budget/Risk (TOMIN)
+	***20. Final Schedule (Agile Schedule Updates) (KEITH)
+	***21. API Section (KEITH)
+	***22. Lessons Learned (EVERYONE)
+	***23. Future Plans (Backlogs that we did not implement) (TOMIN)
+	***24. Glossary of Terms and Acronyms (MATTY B)
+	***25. Code Appendix (TOMIN)
+	***26. Javadoc Link (KEITH)
+	***27. Wordpress Link (TOMIN)
+	***28. The Environmental Impact Article (WILL OR TOMIN)
+	***29. Final Update of Table of Contents (KEITH)
+
+Each Person Peer Review the FDR
+	***30. Keith
+	***31. Matty B
+	***32. Tomin
+	***33. Will

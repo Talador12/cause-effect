@@ -1,0 +1,14 @@
+When you’re working on a team, your workflow is going to look a lot like this:
+
+1. If you haven’t done so in a while, get the latest version that everyone else is working off of:
+	- hg pull
+	- hg up
+2. Make some changes
+3. Commit them (locally)
+4. Repeat steps 2-3 until you’ve got some nice code that you’re willing to inflict on everyone else
+5. When you’re ready to share:
+	- hg pull to get everyone else’s changes (if there are any)
+	- hg merge to merge them into yours
+	- test! to make sure the merge didn’t screw anything up
+	- hg commit (the merge)
+	- hg push

@@ -1,0 +1,70 @@
+Code Formatting:
+
+if((x+2)*(x+3) == 2)
+{
+	x = 2;
+}
+else
+{
+	x++;
+}
+x = 2+3;
+
+for(int i=0; i<5; i++)
+{
+	x-=2;	
+}
+
+switch(x)
+{
+	case 1:
+	{
+		y = 2;
+	}
+	break;
+
+	case 2:
+	{
+		y = 3;
+	}
+	break;
+
+	case 3:
+	{
+		y = 4;
+	}
+	break;
+
+	default:
+	{
+		y = 5;
+	}
+	break;
+}
+
+int num = 2;
+int count = 3;
+int yay = 2;
+bool derp2 = false;
+bool yayz = false;
+
+//JavaDoc here as well
+class Derp
+{
+	//Member variables use the mPrefix
+	//Javadoc here as necessary
+	int mCount = 2;
+	int mList = 5;	
+	
+	//function does dis (USE JAVADOC FORMATTING HERE)
+	foo()
+	{
+	}
+	
+}
+
+//camelCasing for variables and functions
+//ClassesAreThisWay
+//logical naming
+//  use this: http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html#examples
+//80 Character Word Wrap

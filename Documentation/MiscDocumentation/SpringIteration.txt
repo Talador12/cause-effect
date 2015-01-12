@@ -1,0 +1,128 @@
+Iteration 6
+	First Week
+		Fixing "Rules be type/category query" - Matty B
+		Fixing Cause tree and updating cause evaluation - William Vennes
+		Turn rules on and off - Matty B
+		Design a slide for the presentation about adding a cause edit/effect edit page - Tomin
+		Update the rest of the slides (if needed [Flow minimap?]) -Tomin
+		Update slide contrast for graphics - Tomin
+		AND/OR Brainstorming
+		Turn Off side rotation - Keith
+	Second Week
+		Not Implemented Toasts - Tomin
+		Remove Grid View -Will
+		Update rCauses and rEffects as they are changed -Matty B, Keith
+		back button stack fix -Tomin (use CEapp to create an int to switch on that will identify the last major activity to be sent back to, many activites, little depth. Keep the stack small)
+		Vertical seperation of Causes and Effects -Keith
+		AND and OR brainstorming (start with 1 level of grouping) -Keith
+		Trees from leaves - Will
+		Service Research - Will
+		"Adding new things and it duplicates database bug" - Matty B
+		Bug reporting/fixing - Everyone
+Iteration 7
+"Raley" stuff
+1. Tomin      You’re creating too many new Activities. Every time you enter a new screen, it looks like you’re adding a new activity. Even if you’re returning to a screen you have already been to, you have a new activity for it. Tim mentioned this in the meeting, but you should only go 2-3 activities deep and then as you complete a screen or press the back key begin popping those activities off the stack.
+2. Matty B    Whenever I create a “Cause,” a second identical cause is added in the Cause list. Fix that so only the ONE is created.
+a. Matty B    This bug reveals another one. If a user has identical “causes” they should combine into one. You don’t need duplicates. Also, in doing that you won’t repeat playing the same effects over again for the identical cause.
+3. Keith      When a “Cause” is phone call and you have an “Effect” of toast, when phone receives a call, it doesn’t display the correct toast text. Instead it says, “Incoming call from xxxxxxxxxx.”
+4. Keith      When a “Cause” is phone call and you have an “Effect” of notification, when phone receives a call, no notification is shown.
+5. Will/Matty B (get all rules by type, not category)      After turning off the previous rule, effects were still played.
+6. Keith      When a “Cause” is text message and you have an “Effect” of toast, when phone receives a text, it doesn’t display the correct toast text. Instead it says, “Message received xxxxxxxxxx.”
+7. Keith      When a “Cause” text message and you have an “Effect” of notification, when phone receives a text, no notification is shown.
+8. Will/Matty B (get all rules by type, not category)      After turning off the previous rule, effects were still played.
+		
+		getUserTreeString function in Rule Object - Will
+		Editing stuff - Matty B/Keith
+		Deleting stuff - Matty B/Keith
+		Service and Application - Keith/Will
+		Sound/LED - Tomin
+                Volume - Tomin
+                Silent - Tomin
+		Location Rules - Keith
+		AND/OR Implementation - Will/Keith
+		Change vibrate from string to tone - Tomin
+		Wi-Fi Rules (toggle & connection) - Will/Tomin
+		NFC Rules - Will
+		Sharing Rules - Will
+		NFC Sharing - Will
+		Share via email, MMS, Facebook, Dropbox (json) - Will
+		OAth accounts - Matty B
+		Account Tables - Matty B
+		Pending Intent Queue - Matty B
+		Email Rules - Matty B
+		Facebook Rules - Matty B
+		Google Rules - Matty B
+		Toggle GPS On/Off - Keith/Tomin (we should talk about this on Monday)
+
+	*****Backlog*****
+		Calendar (Google) Rules
+		"Rulelists"
+		Twitter Rules
+		Account Security/Encryption
+		Toast on Effect Option (UI and Integration)
+		Display on/off
+		Docking
+		Headphones
+		Set Wallpaper/Lock Screen Image etc
+		Open Applications for action (Play song with music player etc)
+		Brightness
+		Airplane Mode
+		Toggle Data
+		Toggle Wi-Fi
+		Help Screens
+		General Settings
+		Security Settings
+		Motion based
+		Accelerometer based
+		Gyroscope based
+		Reboot
+		Shutdown
+		Boot Completed
+		Battery Level Cause
+		Battery Temperature Cause
+		Phone State
+		Printing
+		Military Time
+Iteration 8
+	*****UPDATE BUGS ON BITBUCKET NOW, NOT THE EMAIL CHAIN*****
+	First Week
+		ANDs and ORs - Will
+		Email bugs migrated to Bitbucket - Matty B
+		Stack Items - Tomin
+		Background Service - Keith/Will
+		Debugging - Matty B, Everyone
+		Action Bar (delete etc... see "Action Bar Sherlock") - Tomin
+		"Contextual Action Bars" e.g. Select an item, the bar changes... - Tomin
+	        Slide out menu - Tomin (Include this optionally with your action bar if that makes sense)... -Tomin
+		Duplicate Rules - Matty B
+		Check Box delete? - Matty B (Add checkboxes, make a delete function that deletes all checked)
+		Take out long click delete - Matty B(you can use it for debugging if you need to, but leave it out of the MDR)
+		Wifi Listener - Will
+		Location Listener - Keith
+		Alarm Manager - Keith
+	Second Week
+		ALL CODE DUE TUESDAY :) Paper due Tuesday. Slides due Tuesday
+		MDR Paper - Everyone
+			Write a design section for your requirements above (since the PDR) - each person does their own DUE TUESDAY
+			Editing the paper -Keith due Thursday
+		MDR Presentation Slides- Everyone
+			Slides updated DUE TUESDAY
+		Debugging - Everyone DUE THURSDAY
+		Javadoc Comments - Everyone DUE THURSDAY
+			Every function, every class, variables, and blocks of code
+Backlog
+		Drag and Drop UI
+		Bluetooth Rules (Including car bluetooth)
+		Camera Rules
+		Clean up UI
+		Menu on screen button for phones without buttons (4.0+)
+		Battery Efficiency
+		ICS (4.0.1+)/Jellybean (4.1.0+) Based rules
+		Tablet Testing
+		Advanced Boolean Operations (AT LEAST NOT but maybe xor, xnor, nor, nand, etc)
+		User Preferences
+		Security
+		Voice Commands
+		Language/Translation Rules
+		External Media Integration (Giant list of accounts)
+		

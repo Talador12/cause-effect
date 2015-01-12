@@ -1,0 +1,42 @@
+database contains:
+causes table
+effects table
+rules table
+//account table (name, URL, username, password)
+
+rules list
+-list of causes foreign key
+-list of effects foreign key
+-all tables must have IDs (int) auto-increment
+(addRule/deleteRule/editRule/readRule(Causes/Effects) function)
+
+effects list (return vector) given a rule id
+-type of the effect (vibrate, toast, notification) String
+-list of parameters (short/long, string, string)
+
+causes list (when given a cause, if true return string of tree with cause IDs)
+-type of the cause (time, phone call, text message)
+-list of parameters (int?/dateTime, string, string)
+
+and/or trees for Causes
+- +,* (get from Will)
+
+rule object
+-causes
+-effects
+(be able to call all effects or all causes)
+
+
+things to test:
+
+Return all cause objects where the category of that cause is equal to the given category
+Return all effect objects
+Return all effect objects where the category of that effect is equal to the given category
+Return all rule objects
+Return all rule objects where the category of that rule is equal to the given category
+ 
+
+Receive one cause object given the causeID
+ 
+Receive all rule objects where the type of that rule is equal to the given type (effect list and cause tree are null, but the cause tree string is still there)
+Return Effect List given the RuleID (The list of effect objects for one rule)

@@ -1,0 +1,42 @@
+Samsung Presentation
+	Fixes/Planning
+		Fixing "Rules be type/category query" - Matty B
+		Fixing Cause tree and updating cause evaluation - William Vennes
+		Change the "PDR testing" conditions for Samsung - Keith
+		Add Text Message in CEbr - Keith
+		Turn rules on and off - Matty B
+		Design a slide for the presentation about adding a cause edit/effect edit page - Tomin
+		Update the rest of the slides (if needed [Flow minimap?]) -Tomin
+		Update slide contrast for graphics - Tomin
+Winter Break
+	User Stories
+		Sleep/Enjoy Holidays
+		Samsung Feedback Requests
+		Test for and fix bugs (have other people test it to find bugs too)
+		Fix Ruleview Bug
+		Cause Edit Screen (Delete option, And/Or tree selection)
+		Effect Edit Screen (Delete option)
+		Deleting Causes/Effects/Rules	
+		All tabs to fragments
+		NFC Rules
+		Sharing Rules
+		NFC Sharing
+		Account Tables
+		Pending Intent Queue
+		Sound Based Rules
+		LED Rules
+Spring Semester
+	Iteration 6 (These are also on the backlog. Any of these could be added into winter break as well)
+		Dynamic BroadcastReceiver
+		Drag And Drop UI
+		Wi-Fi Rules
+		Location Rules
+		Bluetooth Rules
+		Camera Rules (handling files)
+		Calendar (Google) Rules
+		Email Rules
+		Facebook Rules
+		Google Rules
+		Twitter Rules (Maybe)
+	Iteration 7
+		???

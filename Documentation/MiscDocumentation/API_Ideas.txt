@@ -1,0 +1,22 @@
+Files to submit:
+	Filled in Cause/Effect Object
+	Effect Action Class/Cause evaluation
+	Edit Backend
+	Edit Frontend
+
+1. Submitting cause or effect files for updates
+	Developer looks at files, approves, then adds to appropriate folders.
+	Developer adds one database insert to add the new cause/effect.
+
+2. Plugin Market
+	Users can upload their own cause/effect types, and other users can view
+	these items similar to the google play market (or potentially on the
+	market itself) and download the plugins which will modify their installation
+
+3. Local User Generated files
+	The user can include files on their phone and the .apk will work with the 
+	local files to run the user's generated code.
+
+4. Cause/Effect Creation Screens
+	On the application itself, causes and effects can be created using a flow similar to the rule creation design.
+	Drop your code here 

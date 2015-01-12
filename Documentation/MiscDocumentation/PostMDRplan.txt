@@ -1,0 +1,23 @@
+Testing - EVERYONE (Find more errors, address flow problems, add each bug to bitbucket etc)
+	BY THURSDAY MEETING
+Debugging - EVERYONE (I want all of bitbucket to be cleared by Thursday)
+	BY THURSDAY MEETING
+Extensibility - EVERYONE
+	Four Step Solution 
+	-Clean Code  (Debugging, optimizing, cleaning/commenting unneeded log messages and toasts, removing/commenting unused code, Clean Bitbucket)
+		BY THURSDAY MEETING
+	-Document Code (JavaDocs, AND commenting)
+		BY THURSDAY MEETING
+	-Reorganize Code (Create an API folder that we could share as a library for 3rd party developers, restructure folders, this will need to be done on Thursday)
+		ON THURSDAY
+	-Add API Code (Add and Change functions/classes so that we can give access to 3rd party developers, but only for what they should be able to access)
+		ON THURSDAY
+
+Ideals - an API allows the 3rd Party Developers to create a class for C&E Creation/Editing backend, Creation/Editing frontend, and Evaluation/Running respectively.
+	It is really hard to create a cause/effect for all the hundreds of kinds we came up with, but it is relatively easy (with this API) to 
+	create a single cause/effect as a 3rd Party Developer and for in house developers.
+	
+	3rd Party Developers submit these 3 files to our project team, we verify that the code isn't buggy or malicious, add the database calls to add the causes
+	and effects, add the activity to the manifest and then add the code to the correct folders.
+
+	Allows for creativity but does not allow for buggy and malicious code

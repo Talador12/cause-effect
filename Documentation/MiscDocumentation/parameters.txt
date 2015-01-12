@@ -1,0 +1,50 @@
+Types need to be stored in camel casing, no spaces
+
+e.g. wifi, phoneCall, textMessage, time
+
+
+TIME:
+
+	the Time object in android has a toString function that displays time in 
+	YYYYMMDDThhmmss followed by time zone information with hours being in military format
+
+	parameters: HH:mm
+
+	it would be most helpful if parameters for time were stored as "HH:mm" in military format
+	no parsing during evaluation would be necessary if they were stored in this fashion
+
+
+
+TEXT MESSAGES:
+
+	Helpful information to store in a text message parameter:
+
+	From:contact name
+
+	Any of these fields can be blank, store as:
+
+	"Frank Furter"
+
+	- Wrap the message in single quotes to avoid parsing troubles if the message has commas
+
+
+
+PHONE CALLS:
+
+	Helpful information to store in a phone call:
+
+	From:contact name
+
+	Store as:
+
+	"Super Mario"
+
+
+SSID:
+	parameters for a wifi SSID rCause: "SSID goes here"
+	enum value = ssid
+
+
+WIFI STATUS:
+	parameters for a wifi status rCause: "on" or "off"
+	enum value = wifiStatus

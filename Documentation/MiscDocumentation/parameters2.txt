@@ -1,0 +1,23 @@
+Parameter Format for Effects:
+
+type: "vibrate"
+parameter: string[] string
+Strings must be separated by an apostrophe [']
+These strings must all be convertable to integers
+They integers represent the milliseconds for the alternating pattern
+First integer = pause time (ms)
+Second integer = vibrate time (ms)
+Third integer = pause time (ms)
+The last integer will always be "-1" (for repeat)
+Example: "Tone:0 200 200 200 -1"
+
+type: "toast"
+parameter: string
+Example: "Text:This text will be displayed."
+
+type: "showNotification"
+parameter: string string
+The two strings must be separated by an apostrophe [']
+The first string is the content title
+The second string is the content text
+Example: "Content Title'Content Text"

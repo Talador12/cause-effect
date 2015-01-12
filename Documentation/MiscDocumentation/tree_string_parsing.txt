@@ -1,0 +1,33 @@
+: down one level (left or right)
+@ up one level
+$ escape char
++ or
+& and
+1 empty node
+
+string sequence must be correct or failure
+
+
++:&:1@:1@@:&:1@:1$ - depth first
+
+sequence must always start with +, &, or 1 (only 1 cause)
+
+
+		+
+	&		&
+    1	    1	    1	    1
+
+
+create causes using ids from the cause list and insert them into the empty nodes
+
+		+
+	&		&
+    c1	    c2	    c3	    c4
+
+evaluate using cause functions that return booleans (isActive()?)
+
+
+WHAT I NEED FROM DATABASE (for cause tree evaluation)
+- parse string for tree creation
+- cause information based on cause list
+	- request information based on id in the cause list - getCause(id); (helper class?)

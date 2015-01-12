@@ -1,0 +1,15 @@
+Executive Summary - Keith
+User Needs (user stories) - Matt
+Engineering Specifications (what samsung asked for) - Matt
+Acceptance Test Plan (how we quantitatively assess the engineering specifications from Samsung) - Matt
+Initial Design (IDR) - Will 
+Risk Assessment/Risk Management Plan - Tomin
+Work Plan/Schedule - Keith
+Budget - Tomin
+References - Keith
+
+EVERYONE HAS TO DO THESE: (text and diagrams)
+write about what we did for this last huge iteration
+write about what you have learned from agile
+algorithm view of your section of the rules engine
+*if it makes sense to put it in a diagram, make it so*

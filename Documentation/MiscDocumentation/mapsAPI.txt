@@ -1,0 +1,28 @@
+You can open this website for reference on installing google_mapsv2:
+https://docs.google.com/document/pub?id=19nQzvKP-CVLd7_VrpwnHfl-AE9fjbJySowONZZtNHzw
+
+Here's what I did to update my laptop to the desktop pushed head:
+1. Pull from the head.
+2. Update to the head.
+3. Start Eclipse.
+4. Refresh your project files.
+5. Open MapPicker.java
+6. Ensure you have the latest version (v2) of the Google Play Services installed.
+     Select Window > Android SDK Manager or run android at the command line.
+     Scroll to the bottom of the package list and select Extras > Google Play services. The Google Play services (install all google play features) SDK is downloaded      to your computer and installed in your Android SDK environment at <android-sdk-folder>/extras/google/google_play_services/
+7. Add the Google Play Services project into your Eclipse workspace.
+     Click File -> Import..., select Android -> Existing Android Code into Workspace
+     Browse to and select <android-sdk-folder>/extras/google/google_play_services/libproject/google-play-services_lib
+8. To add the dependency to Google Play Services into your project
+     Project -> Properties -> Android -> Library, Add -> google-play-services_lib
+9. Run the code
+10. If you go to New Rule>Cause+>Arriving at a Location, you will see a blank but not breaking map app. This will load a map (as it does on my desktop) once we update the keystore for all of us. For now, this is enough work.
+
+DEBUG.KEYSTORE (IMPORTANT, used to load the map)
+1. Pull from the repository. There will be a debug.keystore file in the head directory.
+2. Copy this file
+3. Go to your .Android directory (usually listed under your user file)
+4. Rename your old keystore to old.keystore
+5. Copy the new debug.keystore into the folder
+6. Run the app in eclipse. 
+	-If the application wants a reinstallation of the app (due to different signatures), uninstall the application on         the device via Settings>Applications>Uninstall and then rerun the program in eclipse.

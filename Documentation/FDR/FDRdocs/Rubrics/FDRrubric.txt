@@ -1,0 +1,76 @@
+Presentation Skills--
+Levels of Achievement:
+Unsatisfactory 15 (15%) points
+Speaker does not have a clear understanding of the material they are presenting. Cannot give explanations to questions.
+Developing 20 (20%) points
+Speaker stumbles over occasional term or facts. hard to understand or follow what they are saying.
+Satisfactory 25 (25%) points
+Speakers use notes or require prompts from team but understand their material.
+Exemplary 30 (30%) points
+Speakers are clear and precise in their descriptions and delivery. They are confident in their details.
+
+Visuals--
+Levels of Achievement:
+Unsatisfactory 5 (5%) points
+Slides fail to include most required information, and may be impossible to read.
+Developing 10 (10%) points
+Slides lacking in key required information. Slides may be hard to see or understand.
+Satisfactory 15 (15%) points
+Slides convey main data and graphics but may occasionally be hard to see or understand. Some required information may be missing.
+Exemplary 20 (20%) points
+Slides are easy to see, uncluttered, and support the speaker's narrative. Slides have excellent visual data representation and graphics and contain all required information.
+
+Project Summary--
+Levels of Achievement:
+Unsatisfactory 4 (4%) points
+Description fails to describe project adequately.
+Developing 6 (6%) points
+Description is incomplete.
+Satisfactory 8 (8%) points
+Description is complete and understandable but could be clearer. Some requirements are presented.
+Exemplary 10 (10%) points
+Description is clear,complete, and understandable. All important requirements are presented.
+
+Final Design--
+Levels of Achievement:
+Unsatisfactory 3 (3%) points
+Design is not presented clearly.
+Developing 7 (7%) points
+Limited design is presented. No system diagrams, no design drawings.
+Satisfactory 10 (10%) points
+Design is presented clearly. System level diagrams are presented. Some key detail designs are described.
+Exemplary 15 (15%) points
+Design is presented clearly. All required information to understand and replicated the design are presented.
+
+Test Plan(s)--
+Levels of Achievement:
+Unsatisfactory 3 (3%) points
+Some tests are present, but not completed.
+Developing 7 (7%) points
+All requirments have a test, but tests are not completed. Tests are hard to understand and can't be executed.
+Satisfactory 10 (10%) points
+All requirements have a test. All tests are completed but some are hard to understand. Poor testing methodology is used.
+Exemplary 15 (15%) points
+All requirements have a test. Every test is easy to understand and follow. All tests are completed.
+
+Budget--
+Levels of Achievement:
+Unsatisfactory 2 (2%) points
+Budget is incomplete and hard to follow.
+Developing 3 (3%) points
+Budget is slightly ncomplete and hard to follow.
+Satisfactory 4 (4%) points
+Budget is accurate, complete.
+Exemplary 5 (5%) points
+Budget is complete, accurate, clear, easy to follow.
+
+Schedule--
+Levels of Achievement:
+Unsatisfactory 2 (2%) points
+Schedule hard to follow and may not show actual course of events.
+Developing 3 (3%) points
+Schedule hard to follow. Needs updating since last review.
+Satisfactory 4 (4%) points
+Schedule shows true course of events but may not be easy to follow.
+Exemplary 5 (5%) points
+Schedule clearly reflects true course of events and is easy to follow.

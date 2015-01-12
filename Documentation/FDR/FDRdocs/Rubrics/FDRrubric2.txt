@@ -1,0 +1,109 @@
+Executive Summary--
+Levels of Achievement:
+Unsatisfactory 4 (4%) points
+Project description not clear. Project is difficult to visualize.
+Developing 6 (6%) points
+Project description could use some clarification.
+Satisfactory 8 (8%) points
+Adequately describes project but writing could be more organized.
+Exemplary 10 (10%) points
+Writing is a clear and concise description of project.
+
+Problem Statement (Vision)--
+Levels of Achievement:
+Unsatisfactory 2 (2%) points
+Writing is poor and imprecise. Relevant social,economic, global, or environmental context is minimally addressed if at all.
+Developing 3 (3%) points
+Writing is in need of editing. Relevant social,economic, global, or environmental context is somewhat lacking.
+Satisfactory 4 (4%) points
+Writing is adequate. Relevant social,economic, global, or environmental context is somewhat described.
+Exemplary 5 (5%) points
+Writing is clear and concise. Relevant social,economic, global, or environmental context is fully described.
+
+Key Requirements--
+Levels of Achievement:
+Unsatisfactory 3 (3%) points
+Few requirements are described.
+Developing 4 (4%) points
+Some requirements are described.
+Satisfactory 6 (6%) points
+Most requirements are described adequately.
+Exemplary 7 (7%) points
+All requirements are described clearly.
+
+Final Design--
+Levels of Achievement:
+Unsatisfactory 9 (9%) points
+Description is lacking. Few or no relevant figures or tables and references are used. Design meets a few requirements.
+Developing 14 (14%) points
+Description is lacking. Some relevant figures or tables and references are used. Design meets some requirements.
+Satisfactory 19 (19%) points
+Adequate description. Some relevant figures or tables and references are used. Design meets most requirements.
+Exemplary 25 (25%) points
+Complete, concise description. Excellent relevant figures or tables and references are used. Design meets requirements.
+
+Design Analysis--
+Levels of Achievement:
+Unsatisfactory 6 (6%) points
+Analysis is minimal or lacking. Correct units not always indicated. No proper use of engineering tools documented.
+Developing 9 (9%) points
+Analysis is incomplete. Correct units not always indicated. Proper use of few engineering tools.
+Satisfactory 12 (12%) points
+Analysis supports design. Analysis is mostly complete with correct units. Proper use of some engineering tools.
+Exemplary 15 (15%) points
+Analysis supports design. Analysis is clear, complete, and easy to follow with correct units. Proper use of engineering tools.
+
+Acceptance Test Plan--
+Levels of Achievement:
+Unsatisfactory 9 (9%) points
+Incomplete tests for most specifications. Few appropriate tools identified for most tests. Tools sometimes not used properly.
+Developing 14 (14%) points
+Complete tests for most specifications. Mostly appropriate tools identified for most tests. Tools sometimes not used properly.
+Satisfactory 19 (19%) points
+Complete tests for every specification. Mostly appropriate tools identified for each test. Tools used properly.
+Exemplary 25 (25%) points
+Clear and complete tests for every specification. Appropriate tools identified for each test. Tools used properly.
+
+Final Schedule--
+Levels of Achievement:
+Unsatisfactory 1 (1%) points
+Schedule is very incomplete, and can hard to follow.
+Developing 1.5 (1.5%) points
+Schedule is somewhat incomplete, and can may be hard to follow.
+Satisfactory 2 (2%) points
+Schedule is accurate and complete, and can be followed.
+Exemplary 2.5 (2.5%) points
+Schedule is complete, accurate, clear, and easy to follow.
+
+Final Budget--
+Levels of Achievement:
+Unsatisfactory .9 (.9%) points
+Budget is very incomplete, and hard to follow.
+Developing 1.4 (1.4%) points
+Budget is somewhat incomplete, and can may be hard to follow.
+Satisfactory 1.9 (1.9%) points
+Budget is accurate and complete, and can be followed.
+Exemplary 2.5 (2.5%) points
+Budget is complete, accurate, clear, and easy to follow.
+
+Lessons Learned--
+Levels of Achievement:
+Unsatisfactory 2 (2%) points
+Poor, disorganized writing. Makes no connection to larger educational experience.
+Developing 3 (3%) points
+Disorganized writing. Makes little connection to larger educational experience.
+Satisfactory 4 (4%) points
+Adequate writing. Makes some connection to larger educational experience.
+Exemplary 5 (5%) points
+Clear writing. Makes clear connection to larger educational experience.
+
+Future Work--
+Levels of Achievement:
+Unsatisfactory 0 (0%) points
+No articulation of possibel future direction of project work.
+Developing 1 (1%) points
+Little articulation of possibel future direction of project work.
+Satisfactory 2 (2%) points
+Some articulation of possibel future direction of project work.
+Exemplary 3 (3%) points
+Clear and complete articulation of possible future direction of project work.

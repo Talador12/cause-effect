@@ -1,0 +1,88 @@
+~Split D into
+	~each Cause Type
+		~Arrive
+			*Loads last known location when map view appears (NO GPS ON)
+			*Pan the Map
+			*Zoom in all the way
+			*Zoom out all the way
+			*My location Button (top right, still NO GPS ON)
+			*Load last known location (GPS ON)
+			*My location Button (GPS ON) 
+			*Tap to add a pin, cancel the pin (should remove pin(s))
+			*Create multiple pins, cancel one to clear all
+			*Tap to add a pin (blank name)
+				Long tap to accept that pin
+			*Tap to add a pin (actual name)
+				Long tap to accept that pin
+			
+		~Depart
+			*Tap to add a pin (actual name)
+				Long tap to accept that pin
+		*Phone Call
+			Contacts list pops up
+			Choose a contact (create if necessary)
+		*Text
+			Contacts list pops up
+			Choose a contact (create if necessary)
+		~Time
+			*Cancel Dialogue button
+			*Create Time
+				choose an hour
+				choose minutes
+				choose am/pm
+		~Wifi SSID
+			*create dialogue appears
+				enter ssid (explain this?)
+			*blank ssid
+		~Wifi Status
+			*on
+			*off
+	~each Effect Type
+		~Notification
+			*blank notification
+			*Title only
+			*Message only
+			*EVYERHTHINGG
+		*Play Sound
+			play one sound
+			play another sound
+		~Ring Mode
+			*Normal
+			*Vibrate
+			*Silent
+		~Toast
+			*blank toast
+			*toast
+		*Vibrate
++ADD 
+	~Edits
+		*Edit Arrive
+		*Edit Depart
+		*Edit Phone Call
+		*Edit Text
+		*Edit Time
+		*Edit Wifi SSID
+		*Edit Wifi Status
+
+		*Edit Notification
+		*Edit Sound
+		*Edit Ring Mode
+		*Edit Toast
+		*Edit Vibrate
+~Split E into
+	*Delete Rule
+	*Delete Cause
+	*Delete Effect
+~Split K
+	*NFC
+	*Email
+~Split M into
+	*AND Test
+	*OR Test
++ADD
+	*Menu from My Rules
+	*Menu from Edit Rule
+	*Menu from Help
+	*Menu from Settings
+	*Settings Tabs working... (this can be one option)
+	*Go back to android home screen and test a simple rule (TIME->Notification)
